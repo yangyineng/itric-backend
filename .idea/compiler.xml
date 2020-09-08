@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itric-auth" />
+        <module name="itric-beans" />
+        <module name="itric-biz" />
+        <module name="itric-dao" />
+        <module name="itric-search" />
+        <module name="itric-trade" />
+        <module name="itric-utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

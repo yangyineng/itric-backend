@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-trade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itric-utils" charset="UTF-8" />
+  </component>
+</project>
